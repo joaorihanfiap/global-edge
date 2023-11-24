@@ -1,6 +1,6 @@
 # Sistema de Triagem Automático
 
-##Resumo
+## Resumo
 Nosso projeto aborda a constante problemática de espera em hospitais 
 públicos e particulares do nosso país, propondo a implementação de um sistema de 
 Triagem Automático, que busca facilitar e agilizar o trabalho dos médicos e 
@@ -11,7 +11,7 @@ sensação de um atendimento humanizado. O sistema utilizaria de algumas pergunt
 e exames, e adaptaria sua resposta e personalizaria o prontuário de acordo com cada 
 situação apresentada. 
 
-##Introdução 
+## Introdução 
 Nesta parte do trabalho, desenvolvemos um dos exames que será realizado pelo sistema, 
 que é o de Oximetria. A oximetria é a medição em porcentagem dos níveis de oxigênio
 no sangue do paciente, que ajuda a checar se ele está com algum problema. Para isso, 
@@ -20,14 +20,14 @@ realizando a medição de oximetria, em tempo real em um paciente, que retorna o
 por meio da API da plataforma Postman
 
 
-#Como Utilizar
+# Como Utilizar
 
 Para utilizar o simulador, basta entrar com os códigos da pasta 'Códigos Fonte' na plataforma Wokwi, 
 e rodar o ESP32. Com isso, você poderá configurar a simulação, e também utilizar os dados recebidos via
 a API do Postman, e também com algum programa de saída, como fizemos com o programa em Python que recebe
 os dados.
 
-##Links
+## Links
 
 Link para o projeto no na plataforma Wokwi:
 https://wokwi.com/projects/382225484154617857
