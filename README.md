@@ -22,10 +22,10 @@ por meio da API da plataforma Postman
 
 # Como Utilizar
 
-Para utilizar o simulador, basta entrar com os códigos da pasta 'Códigos Fonte' na plataforma Wokwi, 
-e rodar o ESP32. Com isso, você poderá configurar a simulação, e também utilizar os dados recebidos via
+Para utilizar o simulador, basta entrar  plataforma Wokwi, e rodar o ESP32. 
+Com isso, você poderá configurar a simulação, e também utilizar os dados recebidos via
 a API do Postman, e também com algum programa de saída, como fizemos com o programa em Python que recebe
-os dados.
+os dados. Programa exemplo em Python também pode ser encontrado aqui neste repositório
 
 ## Links
 
