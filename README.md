@@ -33,6 +33,6 @@ Link para o projeto no na plataforma Wokwi:
 https://wokwi.com/projects/382225484154617857
 
 Link para o Vídeo explicativo:
-https://youtu.be/ibMOnYbwP3s
+https://youtu.be/b7Sevn2mc88
 
 
