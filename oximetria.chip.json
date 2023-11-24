@@ -1,0 +1,22 @@
+{
+  "name": "Oximetria",
+  "author": "joaorihanfiap",
+  "pins": [
+    "GND",
+    "VCC",
+    "",
+    "",
+    "",
+    "OXIMETRIA"
+  ],
+  "controls": [
+    {
+      "id": "frequency",
+      "label": "Frequency",
+      "type": "range",
+      "min": 1,
+      "max": 10,
+      "step": 1
+    }
+  ]
+}
